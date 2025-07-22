@@ -48,8 +48,8 @@ Atualmente, estou **expandindo meu escopo de atuação com Java**, aplicando con
 
 ## 📫 Contato
 
-- 📧 Email: [seu-email-aqui]  
-- 💼 LinkedIn: [seu-linkedin-aqui]  
+-
+- 💼 LinkedIn: https://www.linkedin.com/in/eldryn-constantino-3454b7186/ 
 - 🌐 Portfólio: *em construção*  
 - 📍 Localização: Brasil
 
